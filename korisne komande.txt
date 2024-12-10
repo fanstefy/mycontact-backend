@@ -1,0 +1,11 @@
+npm run dev
+
+sudo systemctl enable mongod
+
+sudo systemctl status mongod
+
+sudo systemctl start mongod
+
+sudo systemctl restart mongod
+
+
